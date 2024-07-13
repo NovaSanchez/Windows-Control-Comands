@@ -1,0 +1,1 @@
+start wt new-tab; --title "principal" ;split-pane -V ; split-pane -H && code && start C:\Users\nova\AppData\Local\Postman\Postman.exe && start chrome 172.23.30.10/dashboard 172.23.30.11:3000 remix.ethereum.org chrome-extension://nkbihfbeogaeaoehlefnkodbefgpgknn/home.html

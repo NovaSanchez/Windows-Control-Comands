@@ -1,0 +1,30 @@
+********************************************************************
+* 	developer helpers commans using in windows		   *
+********************************************************************
+
+this are the commans allow in this project machine:
+
+and running using win + R or in terminar directly
+
+# For Virtuals:
+
+"run-android": 	Run android virtualdevices first listed this time is setted has ( @Nexus_6 )
+"run-vm":     	Run virtual machine named ubuntu using hyper-V service in windows
+"sd-vm":      	Shut Down VM Ubuntu hosted in Hyper-V
+
+
+# For Developer tools:
+
+"rmq-start":  			(Run As Admin) Run RabbitMQ
+"rmq-stop": 			(Run As Admin) Stop RabbitMQ
+"mq-mannager":			Start manager web site
+"mq-disable-mannager":		Stop manager web site
+
+# Remote Access 
+
+"rpd-tardis": Connect via RPD to Tardis PC on LAN
+"cx-ubuntu":  Connect RDP to ubuntu VM on Hyper-V 
+
+
+# helpers 
+"spn_keyboard": For microsoft keyboard allow to use F buttons

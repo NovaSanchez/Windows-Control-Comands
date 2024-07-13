@@ -1,0 +1,1 @@
+start "" C:\Users\nova\Documents\spn_fn_block.ahk

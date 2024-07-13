@@ -1,0 +1,1 @@
+start wt new-tab; new-tab; new-tab; && start C:\Users\nova\AppData\Local\Postman\Postman.exe && code && C:\Users\nova\AppData\Local\slack\slack.exe && C:\Users\nova\AppData\Local\Programs\franz\Franz.exe && "C:\Users\nova\AppData\Local\Programs\Opera GX\launcher.exe"

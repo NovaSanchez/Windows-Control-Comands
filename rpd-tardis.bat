@@ -1,0 +1,1 @@
+mstsc "C:\help-comands/tardis rpc.rdp"

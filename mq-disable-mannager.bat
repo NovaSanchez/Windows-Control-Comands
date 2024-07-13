@@ -1,0 +1,1 @@
+rabbitmq-plugins disable rabbitmq_management

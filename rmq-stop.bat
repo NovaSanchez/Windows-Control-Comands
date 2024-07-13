@@ -1,0 +1,1 @@
+rabbitmq-service.bat stop
